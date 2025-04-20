@@ -1,0 +1,12 @@
+{"time": "2025-04-21 00:27:18.928","level": "INFO", "msg":{"exchange": "America", "date": "2019-01-01", "time": "11:58:00", "symbol": "CME_SI", "type": "LIMIT", "side": "BUY", "price": 77100.0, "size": 1.0}}
+{"time": "2025-04-21 00:27:18.929","level": "INFO", "msg":{"exchange": "America", "date": "2019-01-01", "time": "11:58:00", "symbol": "CME_NQ", "type": "LIMIT", "side": "SELL", "price": 7623300.0, "size": 1.0}}
+{"time": "2025-04-21 00:27:19.622","level": "INFO", "msg":{"exchange": "America", "date": "2019-01-01", "time": "12:13:00", "symbol": "CME_SI", "type": "LIMIT", "side": "SELL", "price": 77175.0, "size": 1.0}}
+{"time": "2025-04-21 00:27:19.622","level": "INFO", "msg":{"exchange": "America", "date": "2019-01-01", "time": "12:13:00", "symbol": "CME_NQ", "type": "LIMIT", "side": "BUY", "price": 7603500.0, "size": 1.0}}
+{"time": "2025-04-21 00:27:33.877","level": "INFO", "msg":{"exchange": "America", "date": "2019-01-03", "time": "22:09:00", "symbol": "CME_SI", "type": "LIMIT", "side": "SELL", "price": 78850.0, "size": 1.0}}
+{"time": "2025-04-21 00:27:33.877","level": "INFO", "msg":{"exchange": "America", "date": "2019-01-03", "time": "22:09:00", "symbol": "CME_NQ", "type": "LIMIT", "side": "BUY", "price": 7519200.0, "size": 1.0}}
+{"time": "2025-04-21 00:27:34.514","level": "INFO", "msg":{"exchange": "America", "date": "2019-01-03", "time": "22:25:00", "symbol": "CME_SI", "type": "LIMIT", "side": "BUY", "price": 78775.0, "size": 1.0}}
+{"time": "2025-04-21 00:27:34.514","level": "INFO", "msg":{"exchange": "America", "date": "2019-01-03", "time": "22:25:00", "symbol": "CME_NQ", "type": "LIMIT", "side": "SELL", "price": 7521900.0, "size": 1.0}}
+{"time": "2025-04-21 00:27:52.047","level": "INFO", "msg":{"exchange": "America", "date": "2019-01-10", "time": "19:53:00", "symbol": "CME_SI", "type": "LIMIT", "side": "BUY", "price": 78725.0, "size": 1.0}}
+{"time": "2025-04-21 00:27:52.048","level": "INFO", "msg":{"exchange": "America", "date": "2019-01-10", "time": "19:53:00", "symbol": "CME_NQ", "type": "LIMIT", "side": "SELL", "price": 7944600.0, "size": 1.0}}
+{"time": "2025-04-21 00:27:53.526","level": "INFO", "msg":{"exchange": "America", "date": "2019-01-11", "time": "00:11:00", "symbol": "CME_SI", "type": "LIMIT", "side": "SELL", "price": 78400.0, "size": 1.0}}
+{"time": "2025-04-21 00:27:53.527","level": "INFO", "msg":{"exchange": "America", "date": "2019-01-11", "time": "00:11:00", "symbol": "CME_NQ", "type": "LIMIT", "side": "BUY", "price": 7920300.0, "size": 1.0}}

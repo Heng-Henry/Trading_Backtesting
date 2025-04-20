@@ -1,0 +1,10 @@
+{"time": "2025-04-21 00:36:20.376","level": "INFO", "msg":{"exchange": "America", "date": "2019-01-02", "time": "04:24:00", "symbol": "CBOT_ZW", "type": "LIMIT", "side": "SELL", "price": 1015500.0, "size": 1.0}}
+{"time": "2025-04-21 00:36:20.376","level": "INFO", "msg":{"exchange": "America", "date": "2019-01-02", "time": "04:24:00", "symbol": "CBOT_ZT", "type": "LIMIT", "side": "BUY", "price": 6366562.5, "size": 1.0}}
+{"time": "2025-04-21 00:36:21.180","level": "INFO", "msg":{"exchange": "America", "date": "2019-01-02", "time": "11:02:00", "symbol": "CBOT_ZW", "type": "LIMIT", "side": "BUY", "price": 1013500.0, "size": 1.0}}
+{"time": "2025-04-21 00:36:21.181","level": "INFO", "msg":{"exchange": "America", "date": "2019-01-02", "time": "11:02:00", "symbol": "CBOT_ZT", "type": "LIMIT", "side": "SELL", "price": 6373125.0, "size": 1.0}}
+{"time": "2025-04-21 00:37:52.504","level": "INFO", "msg":{"exchange": "America", "date": "2019-03-15", "time": "01:54:00", "symbol": "CBOT_ZW", "type": "LIMIT", "side": "SELL", "price": 917000.0, "size": 1.0}}
+{"time": "2025-04-21 00:37:52.504","level": "INFO", "msg":{"exchange": "America", "date": "2019-03-15", "time": "01:54:00", "symbol": "CBOT_ZT", "type": "LIMIT", "side": "BUY", "price": 6374765.64, "size": 1.0}}
+{"time": "2025-04-21 00:38:35.632","level": "INFO", "msg":{"exchange": "America", "date": "2019-01-02", "time": "04:24:00", "symbol": "CBOT_ZW", "type": "LIMIT", "side": "SELL", "price": 1015500.0, "size": 1.0}}
+{"time": "2025-04-21 00:38:35.633","level": "INFO", "msg":{"exchange": "America", "date": "2019-01-02", "time": "04:24:00", "symbol": "CBOT_ZT", "type": "LIMIT", "side": "BUY", "price": 6366562.5, "size": 1.0}}
+{"time": "2025-04-21 00:38:36.411","level": "INFO", "msg":{"exchange": "America", "date": "2019-01-02", "time": "11:02:00", "symbol": "CBOT_ZW", "type": "LIMIT", "side": "BUY", "price": 1013500.0, "size": 1.0}}
+{"time": "2025-04-21 00:38:36.411","level": "INFO", "msg":{"exchange": "America", "date": "2019-01-02", "time": "11:02:00", "symbol": "CBOT_ZT", "type": "LIMIT", "side": "SELL", "price": 6373125.0, "size": 1.0}}

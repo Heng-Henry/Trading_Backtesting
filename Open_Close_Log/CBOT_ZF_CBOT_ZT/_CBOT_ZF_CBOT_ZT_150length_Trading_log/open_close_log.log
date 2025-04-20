@@ -1,0 +1,63 @@
+2025-04-21 00:39:52,130 - important open quotes : date=2019-01-01, timestamp=17:30:00,ref_price=114585.938, target_price=12731250.0, ref size=1, target size=1, 
+2025-04-21 00:39:52,132 - draw picture test open_thres=1.5, stamp=9.166362649247205, POS=downopen, trade_time=2019-01-01
+2025-04-21 00:39:52,288 - draw success test open_thres=1.5, stamp=9.166362649247205, POS=downopen, trade_time=2019-01-01
+2025-04-21 00:39:52,505 - draw success2 test open_thres=1.5, stamp=9.166362649247205, POS=downopen, trade_time=2019-01-01
+2025-04-21 00:39:52,587 - draw picture test open_thres=1.5, stamp=9.166441478246208, POS=close, trade_time=2019-01-01
+2025-04-21 00:39:52,620 - draw success test open_thres=1.5, stamp=9.166441478246208, POS=close, trade_time=2019-01-01
+2025-04-21 00:39:52,834 - important close quotes : date=2019-01-01, timestamp=18:11:00,ref_price=114648.438, target_price=12735000.0, ref size=1, target size=1, 
+2025-04-21 00:41:58,759 - important open quotes : date=2019-03-14, timestamp=22:43:00,ref_price=114921.875, target_price=12743437.559999999, ref size=1, target size=1, 
+2025-04-21 00:41:58,759 - draw picture test open_thres=1.5, stamp=-10.66976679591385, POS=topopen, trade_time=2019-03-14
+2025-04-21 00:41:58,784 - draw success test open_thres=1.5, stamp=-10.66976679591385, POS=topopen, trade_time=2019-03-14
+2025-04-21 00:41:58,959 - draw success2 test open_thres=1.5, stamp=-10.66976679591385, POS=topopen, trade_time=2019-03-14
+2025-04-21 00:41:58,964 - draw picture test open_thres=1.5, stamp=-10.669809914475193, POS=close, trade_time=2019-03-14
+2025-04-21 00:41:58,993 - draw success test open_thres=1.5, stamp=-10.669809914475193, POS=close, trade_time=2019-03-14
+2025-04-21 00:41:59,212 - important close quotes : date=2019-03-14, timestamp=22:46:00,ref_price=114914.063, target_price=12743906.28, ref size=1, target size=1, 
+2025-04-21 00:43:38,842 - important open quotes : date=2019-05-09, timestamp=20:24:00,ref_price=115703.125, target_price=12778125.0, ref size=1, target size=1, 
+2025-04-21 00:43:38,842 - draw picture test open_thres=1.5, stamp=-9.124907502178125, POS=topopen, trade_time=2019-05-09
+2025-04-21 00:43:38,870 - draw success test open_thres=1.5, stamp=-9.124907502178125, POS=topopen, trade_time=2019-05-09
+2025-04-21 00:43:39,060 - draw success2 test open_thres=1.5, stamp=-9.124907502178125, POS=topopen, trade_time=2019-05-09
+2025-04-21 00:43:39,064 - draw picture test open_thres=1.5, stamp=-9.124934707977223, POS=close, trade_time=2019-05-09
+2025-04-21 00:43:39,168 - draw success test open_thres=1.5, stamp=-9.124934707977223, POS=close, trade_time=2019-05-09
+2025-04-21 00:43:39,364 - important close quotes : date=2019-05-09, timestamp=20:25:00,ref_price=115703.125, target_price=12778593.72, ref size=1, target size=1, 
+2025-04-21 00:44:06,833 - important open quotes : date=2019-05-23, timestamp=19:40:00,ref_price=116289.063, target_price=12797343.72, ref size=1, target size=1, 
+2025-04-21 00:44:06,833 - draw picture test open_thres=1.5, stamp=8.724707704728555, POS=downopen, trade_time=2019-05-23
+2025-04-21 00:44:06,864 - draw success test open_thres=1.5, stamp=8.724707704728555, POS=downopen, trade_time=2019-05-23
+2025-04-21 00:44:07,060 - draw success2 test open_thres=1.5, stamp=8.724707704728555, POS=downopen, trade_time=2019-05-23
+2025-04-21 00:44:07,278 - draw picture test open_thres=1.5, stamp=8.724772640155239, POS=close, trade_time=2019-05-23
+2025-04-21 00:44:07,310 - draw success test open_thres=1.5, stamp=8.724772640155239, POS=close, trade_time=2019-05-23
+2025-04-21 00:44:07,526 - important close quotes : date=2019-05-23, timestamp=21:10:00,ref_price=116250.0, target_price=12796875.0, ref size=1, target size=1, 
+2025-04-21 00:44:20,795 - important open quotes : date=2019-05-30, timestamp=20:04:00,ref_price=117218.75, target_price=12866250.0, ref size=1, target size=1, 
+2025-04-21 00:44:20,795 - draw picture test open_thres=1.5, stamp=-8.978154590241445, POS=downopen, trade_time=2019-05-30
+2025-04-21 00:44:20,824 - draw success test open_thres=1.5, stamp=-8.978154590241445, POS=downopen, trade_time=2019-05-30
+2025-04-21 00:44:21,009 - draw success2 test open_thres=1.5, stamp=-8.978154590241445, POS=downopen, trade_time=2019-05-30
+2025-04-21 00:44:21,475 - draw picture test open_thres=1.5, stamp=-8.978297979206548, POS=close, trade_time=2019-05-30
+2025-04-21 00:44:21,501 - draw success test open_thres=1.5, stamp=-8.978297979206548, POS=close, trade_time=2019-05-30
+2025-04-21 00:44:21,702 - important close quotes : date=2019-05-30, timestamp=23:18:00,ref_price=117226.563, target_price=12869062.559999999, ref size=1, target size=1, 
+2025-04-21 00:45:14,802 - important open quotes : date=2019-06-27, timestamp=21:00:00,ref_price=118101.563, target_price=12909843.72, ref size=1, target size=1, 
+2025-04-21 00:45:14,802 - draw picture test open_thres=1.5, stamp=-6.265928395836464, POS=topopen, trade_time=2019-06-27
+2025-04-21 00:45:14,835 - draw success test open_thres=1.5, stamp=-6.265928395836464, POS=topopen, trade_time=2019-06-27
+2025-04-21 00:45:15,027 - draw success2 test open_thres=1.5, stamp=-6.265928395836464, POS=topopen, trade_time=2019-06-27
+2025-04-21 00:45:15,042 - draw picture test open_thres=1.5, stamp=-6.265974851116504, POS=close, trade_time=2019-06-27
+2025-04-21 00:45:15,068 - draw success test open_thres=1.5, stamp=-6.265974851116504, POS=close, trade_time=2019-06-27
+2025-04-21 00:45:15,250 - important close quotes : date=2019-06-27, timestamp=21:07:00,ref_price=118101.563, target_price=12910781.28, ref size=1, target size=1, 
+2025-04-21 00:45:56,061 - important open quotes : date=2019-07-18, timestamp=21:34:00,ref_price=117867.188, target_price=12893906.28, ref size=1, target size=1, 
+2025-04-21 00:45:56,061 - draw picture test open_thres=1.5, stamp=8.658522285599851, POS=topopen, trade_time=2019-07-18
+2025-04-21 00:45:56,090 - draw success test open_thres=1.5, stamp=8.658522285599851, POS=topopen, trade_time=2019-07-18
+2025-04-21 00:45:56,304 - draw success2 test open_thres=1.5, stamp=8.658522285599851, POS=topopen, trade_time=2019-07-18
+2025-04-21 00:45:56,318 - draw picture test open_thres=1.5, stamp=8.658477703921726, POS=close, trade_time=2019-07-18
+2025-04-21 00:45:56,344 - draw success test open_thres=1.5, stamp=8.658477703921726, POS=close, trade_time=2019-07-18
+2025-04-21 00:45:56,549 - important close quotes : date=2019-07-18, timestamp=21:41:00,ref_price=117875.0, target_price=12893437.559999999, ref size=1, target size=1, 
+2025-04-21 00:46:23,518 - important open quotes : date=2019-08-01, timestamp=20:26:00,ref_price=118476.563, target_price=12906093.72, ref size=1, target size=1, 
+2025-04-21 00:46:23,518 - draw picture test open_thres=1.5, stamp=0.0001254512941395447, POS=topopen, trade_time=2019-08-01
+2025-04-21 00:46:23,546 - draw success test open_thres=1.5, stamp=0.0001254512941395447, POS=topopen, trade_time=2019-08-01
+2025-04-21 00:46:23,741 - draw success2 test open_thres=1.5, stamp=0.0001254512941395447, POS=topopen, trade_time=2019-08-01
+2025-04-21 00:46:23,798 - draw picture test open_thres=1.5, stamp=-2.1558482058203765e-05, POS=close, trade_time=2019-08-01
+2025-04-21 00:46:23,823 - draw success test open_thres=1.5, stamp=-2.1558482058203765e-05, POS=close, trade_time=2019-08-01
+2025-04-21 00:46:24,000 - important close quotes : date=2019-08-01, timestamp=20:52:00,ref_price=118515.625, target_price=12907500.0, ref size=1, target size=1, 
+2025-04-21 00:46:38,271 - important open quotes : date=2019-08-08, timestamp=19:49:00,ref_price=119015.625, target_price=12927656.28, ref size=1, target size=1, 
+2025-04-21 00:46:38,271 - draw picture test open_thres=1.5, stamp=-8.015327698633623, POS=downopen, trade_time=2019-08-08
+2025-04-21 00:46:38,299 - draw success test open_thres=1.5, stamp=-8.015327698633623, POS=downopen, trade_time=2019-08-08
+2025-04-21 00:46:38,479 - draw success2 test open_thres=1.5, stamp=-8.015327698633623, POS=downopen, trade_time=2019-08-08
+2025-04-21 00:46:38,576 - draw picture test open_thres=1.5, stamp=-8.015274945720705, POS=close, trade_time=2019-08-08
+2025-04-21 00:46:38,696 - draw success test open_thres=1.5, stamp=-8.015274945720705, POS=close, trade_time=2019-08-08
+2025-04-21 00:46:38,874 - important close quotes : date=2019-08-08, timestamp=20:36:00,ref_price=119046.875, target_price=12928125.0, ref size=1, target size=1, 
